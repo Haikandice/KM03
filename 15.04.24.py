@@ -11,7 +11,6 @@
     #"model" :"camry",
     #"imege" : ['https://cam50-imege'],
     #}
-#
 #distionary = словарь dict
 
 
