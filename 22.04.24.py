@@ -20,5 +20,3 @@ def find_max(list1):
             max_number = i
     return max_number
 print(find_max([5,43,7,23,7]))
-
-
